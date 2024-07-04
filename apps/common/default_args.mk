@@ -38,3 +38,6 @@ def_args_conjugate_gradient	?= "128 0 0.5"
 
 # Vector size
 def_args_auto-correlation1d_naro  ?= "512"
+
+# Vector size
+def_args_auto-correlation2d_naro  ?= "16 16"
